@@ -17,7 +17,7 @@ body {
 button,
 button:active {
   background-color: #F5B12B;
-  border: none;
+  border: 1px #000000;
   width: 42px;
   height: 40px;
   border-radius: 100%;
