@@ -38,10 +38,11 @@ button:focus {
 
 .clock-container {
   background-color: #FFF785; 
+  border: 3px #000000 solid;
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 1px 1px #00000;
+  box-shadow: 1px 1px #00000 solid;
 }
 
 /* Display + Stop/Start/Reset Controls */
