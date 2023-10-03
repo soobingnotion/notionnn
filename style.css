@@ -51,6 +51,7 @@ button:focus {
   font-size: 70px;
   text-align: center;
   background-color: #ffffff;
+  border: 2px #000000 solid;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 2px 2px #000000 solid ;
