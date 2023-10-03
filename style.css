@@ -17,7 +17,7 @@ body {
 button,
 button:active {
   background-color: #F5B12B;
-  border: 1px #000000;
+  border: 1px #000000 solid;
   width: 42px;
   height: 40px;
   border-radius: 100%;
@@ -52,7 +52,7 @@ button:focus {
   background-color: #ffffff;
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 2px 2px #000000 fullset ;
+  box-shadow: 2px 2px #000000 solid ;
 }
 
 #display-controls {
