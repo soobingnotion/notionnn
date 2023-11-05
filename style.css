@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap');
+</style>
+
 
 /* General */
 
 body {
-  font-family:'Roboto Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   background-color: #ffffff;
 }
 
@@ -119,5 +122,3 @@ button:focus {
 .inc-arrow {
   margin-right: 12px;
 }
-
-(c) Soobingstudio
